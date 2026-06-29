@@ -1,0 +1,7 @@
+When reading and comprehending a story, both the human brain and large language models (LLMs) build internal representations of language. Recent studies show that these two representational geometries are similar when processing the same narrative. The present work examines whether that correspondence increases when the model is conditioned by assigning it a reading role (literary, cognitive, emotional, syntactic or spatial), rather than simply providing the text and processing it without any instruction. The hypothesis draws on prior evidence that brain–model alignment is stronger when a task goal is involved, something not yet tested for reading.
+
+The analysis is carried out using Representational Similarity Encoding (RSE), a parameter-free brain-encoding method, together with an encoding method based on Ridge regression. This directly tests whether the model organizes information in a way structurally similar to the brain, both globally and region by region.
+
+The central result does not support the hypothesis: the reading role does not modulate alignment, and no condition improves over the neutral one. There emerges, however, a specific alignment with semantic-integration regions. This confirms findings already established in the previous literature: the brain–LLM correspondence, where it exists, is semantic in nature and does not depend on the instruction given to the model.
+
+Keywords: brain–LLM alignment, brain encoding, RSE, fMRI, narrative comprehension.
